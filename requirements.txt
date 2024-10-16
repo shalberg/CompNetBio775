@@ -5,3 +5,4 @@ scikit-learn==1.5.2
 python-igraph==0.11.6
 pandas==2.2.3
 ipywidgets==8.1.5
+cairo==1.18.0
